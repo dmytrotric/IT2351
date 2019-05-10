@@ -116,7 +116,7 @@ CREATE TABLE invoice_archive
 
 -- insert rows into the tables
 INSERT INTO general_ledger_accounts VALUES 
-(100,'My Cash'), 
+(100,'Cash'), 
 (110,'Accounts Receivable'), 
 (120,'Book Inventory'), 
 (150,'Furniture'), 
